@@ -32,15 +32,8 @@ export function getOldHubRedirects(mode: 'nitro' | 'vercel' = 'nitro'): NuxtConf
 
     // 旧Hub時代の各言語のプレフィックス
     const hubLocales: PartialRecord<LocaleCodes, string> = {
-        ja: '/',
-        en: '/en',
-        id: '/id',
-        ko: '/ko',
-        it: '/it',
-        pl: '/pl',
-        fr: '/fr',
-        cn: '/zh-CN',
-        tw: '/zh-TW',
+			cn: '/zh-CN',
+			en: '/en',
     };
 
 
@@ -86,13 +79,13 @@ export function getOldHubRedirects(mode: 'nitro' | 'vercel' = 'nitro'): NuxtConf
         localesConst.forEach((locale) => {
             redirects.forEach((route) => {
                 if (route[0].startsWith('/ns')) return;
-    
+
                 let destination = route[1];
-    
+
                 if (route[0].endsWith('.html') && !new RegExp(`^/(${localesConst.map((e) => e.code).join('|')})/`, 'g').test(destination)) {
                     destination = joinURL(`/${locale.code}`, destination);
                 }
-    
+
                 out[joinURL(hubLocales[locale.code] ?? '/', route[0])] = {
                     redirect: {
                         to: destination,

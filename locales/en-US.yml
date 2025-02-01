@@ -11,7 +11,7 @@ generate: "Generate"
 download: "Download"
 browse: "Browse"
 settings: "Settings"
-goToLegacyHub: "Legacy Misskey Hub"
+goToLegacyHub: "Legacy MinervaEdu"
 contactUs: "Contact"
 _error:
   notFound: "Page not found"
@@ -21,92 +21,99 @@ _error:
   reportProblem: "Report a Problem"
   goToTop: "Back to top page"
 _seo:
-  siteName: "Misskey Hub"
-  siteNameLong: "Misskey Hub – Official website of the Misskey Project"
+  siteName: "MinervaEdu"
+  siteNameLong: "MinervaEdu – Aimed at cultivating AI Plus interdisciplinary talents."
   defaultTitleTagline: "A Network Expanding with Notes"
-  defaultDescription: "This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!"
+  defaultDescription: "This is the official site for MinervaEdu, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about MinervaEdu!"
 _nav:
-  servers: "Servers"
-  docs: "Docs"
-  blog: "Blog"
-  other: "More!"
+  servers: "AI Creator Tool "
+  docs: "Minerva AI Course"
+  blog: "Minerva Community"
+  other: "Minerva product "
   switchLang: "Language Settings"
 _landing:
   _hero:
-    description: "Misskey is an open source, decentralized social media platform that's free forever!"
+    description: "MinervaEdu is an AI Education platform ， Base On AI , make Child more Smart . !"
     gettingStarted: "Get Started"
   _keyFeatures:
     _open:
       title: "Open"
-      description: "Misskey is open-source software, and anyone can use it freely."
+      description: "MinervaEdu is an AI Education platform , open platform make child open to the furture. !."
     _federated:
-      title: "Federated"
-      description: "Misskey is a decentralized platform, so communities on different servers can connect with each other."
+      title: "AI Education Robot"
+      description: "The courses cover primary school, middle school and high school courses, and can help children participate in programming robots and NADC competitions.. !."
     _multifunction:
-      title: "Powerful"
-      description: "Misskey is both easy to understand for beginners and has powerful features for advanced users."
+      title: "AI Courses and Competitions"
+      description: "By setting up AI laboratories for K12 schools to simulate the future ecological environment of Mars, a hands-on co-creation teaching model combining software and hardware is adopted"
     _customizable:
-      title: "Highly Customizable"
-      description: "Make Misskey yours! With themes, widgets, layouts and more, you make make Misskey just the way you like it."
+      title: "LLM Agent & Application"
+      description: "Interdisciplinary AI, Mathematics, Physics, and Chemistry Education Agent.Insight into the world through architectural thinking and explore problems through modeling"
   _decenterized:
-    title: "Misskey is a {0} Platform."
-    decenterizedPlatform: "Decentralized"
-    description: "Misskey is just a platform for server owners to make their own instances of Misskey, and they can all talk to each other! There's large instances for the masses, smaller ones for groups, fandoms, and subcultures, and even instances just for individuals and their friends. Want to have even more control? You can make your own instance on your server with relative ease, cutting ties from any large company who wants to spy on you and sell your data. Misskey is about community and sharing, not corporations and big tech. Have friends not on Misskey? No problem! Because Misskey is on the Fediverse ({0}), you can interact with people on other platforms like Mastodon, PixelFed, PeerTube, and more!"
+    title: "MinervaEdu is a {0} Platform."
+    decenterizedPlatform: "AI Education"
+    description: "MinervaEdu is a pioneering AI education platform designed to empower children with the knowledge and skills they need to navigate and shape the future. Recognizing the growing importance of artificial intelligence in every aspect of modern life, MinervaEdu provides engaging and accessible learning experiences that foster AI awareness and cultivate essential AI competencies. Through interactive lessons, hands-on activities, and age-appropriate content, children explore fundamental AI concepts, develop computational thinking skills, and learn how AI is applied in real-world scenarios. MinervaEdu aims to inspire the next generation of innovators, equipping them with the tools to understand, utilize, and ethically contribute to the evolving world of artificial intelligence."
     activityPub: "ActivityPub"
   _features:
     _root:
       title: "Key Features"
-      description: "Misskey offers a wide variety of unique features! Here are some highlights."
+      description: "MinervaEdu offers a wide variety of unique features! Here are some highlights."
     _note:
-      title: "Notes"
-      description: "On Misskey, user posts are called 'Notes.' Reply, quote, add custom emojis, animated text, content warnings, attach multiple images, videos, GIFs, audio clips, or anything else!"
+      title: "AI-Enabled Creation"
+      description: "Children's AI programming + robots, cultivate students with great interest in cutting-edge technology, AI professional courses
+AI drawing, AI video, AI music, cultivate students with compound abilities in both thinking and practical operation
+Interdisciplinary AI courses, AI practical courses"
     _federation:
-      title: "Federation"
-      description: "Not on Misskey? No problem! Not only can Misskey instances talk to each other, but you can make friends with people on other networks like Mastodon and Pixelfed!"
+      title: "AI Creativity Curriculum"
+      description: "Children's AI programming + robots, cultivate students with great interest in cutting-edge technology, AI professional courses
+AI drawing, AI video, AI music, cultivate students with compound abilities in both thinking and practical operation
+Interdisciplinary AI courses, AI practical courses"
     _reaction:
-      title: "Reactions"
-      description: "You can add emoji reactions to any post! No longer are you bound by a like button, show everyone exactly how you feel with the tap of a button."
+      title: "Programmable Educational Robot"
+      description: "Systematic programming and robotics courses, full-stage learning planning, covering 3-18 years old; multiple categories meet teaching needs, providing children with a rich range of science and technology quality courses; in-depth participation in the Ministry of Education's white list events; a diverse examination and certification system to periodically test children's learning outcomes;."
     _drive:
-      title: "Drive"
-      description: "Hate not being able to find something you uploaded? With Drive, you get managed and powerful cloud storage right in your social media!"
+      title: "IntelliCat"
+      description: "SmartBanMao is an educational companion robot for children and teenagers. It aims to provide an entertaining learning experience through artificial intelligence technology, while promoting children's programming thinking and creativity, and assisting children in learning a wide range of subjects such as mathematics, physics and chemistry.!"
     _theme:
-      title: "Themes"
-      description: "Why be limited by just a Light or Dark theme when you can change all the colors? Use Misskey's intuitive theming functions to make Misskey just how you like it."
+      title: "Interdisciplinary AI"
+      description: "Intelligent problem solving: When students face math, physics and chemistry problems, they can rely on the instant feedback and detailed analysis provided by the Agent to improve their problem-solving efficiency and enhance their confidence.
+Cultivation of model-based thinking: The tool guides students to understand and solve practical problems by building mathematical models, so that they can form an organic connection between theory and practice and cultivate logical thinking and creativity.
+Visual learning experience: Through vivid visual demonstrations and simulations, students can intuitively understand core concepts such as force, mass and acceleration, which improves the fun and effectiveness of learning.."
     _thread:
-      title: "Threads"
-      description: "Have a lot on your mind? Make a thread! Each post can have up to 3,000 characters by default, and you can keep the conversation going for hours."
+      title: "AI Applications and Solutions"
+      description: "Lesson plan generation, syllabus design, lesson preparation assistant, course closing assistant, homework correction, teacher teaching efficiency increased by 150%, student learning efficiency increased by 200%.."
     _charts:
       title: "Charts"
-      description: "For those who need to see everything, Misskey has powerful charts for both users and admins to see what exactly is going on in your instance in real time."
+      description: "For those who need to see everything, MinervaEdu has powerful charts for both users and admins to see what exactly is going on in your instance in real time."
     _widgets:
-      title: "Widgets"
-      description: "Have everything at your fingertips with over a dozen customizable widgets!"
+      title: "Mars Ecological Base"
+      description: "By setting up AI laboratories for K12 schools, simulating the future ecological environment of Mars, and using a hands-on co-creation teaching model that combines software and hardware,
+including general education courses, inquiry courses, graphical programming tools, and a large number of supporting content"
   _getStarted:
-    title: "Getting Started with Misskey"
+    title: "Getting Started with MinervaEdu"
     _find:
-      title: "Find a Server"
-      list: "Server List"
+      title: "AI Creators，Student"
+      list: "Creators List"
     _create:
-      title: "Create a Server"
+      title: "Teacher Operators"
       guide: "Setup Guide"
     _docs:
-      title: "Learn More"
+      title: "Educational institutions "
       docs: "See Documentation"
   _donation:
-    title: "Donation"
-    description: "Misskey is a non-profit project, and development funding relies on donations from users like you. If you enjoy using Misskey, please consider supporting us so that we can continue to make Misskey awesome for years to come!"
+    title: "Mission"
+    description: "Fueling the forge of invention, reaping the harvest of imagination"
   _sponsors:
     title: "Sponsors"
 _servers:
   title: "Server List"
-  description: "Misskey is not a single service but a decentralized network where individuals provide services. To use Misskey, you need to create an account on a server that offers the service."
+  description: "MinervaEdu is not a single service but a decentralized network where individuals provide services. To use MinervaEdu, you need to create an account on a server that offers the service."
   addYourServer: "Is your server not listed? Please register it {0}!"
   addYourServerLink: "here"
   _system:
     fetchError: "Failed to fetch data. Please try again later."
   _statistics:
     title: "Server Statistics"
-    description: "A graphical presentation of the statistics of the Misskey servers."
+    description: "A graphical presentation of the statistics of the MinervaEdu servers."
     viewFullStats: "See detailed statistics"
     lang: "Primary Language"
     registerAcceptance: "New registration acceptance"
@@ -137,22 +144,22 @@ _servers:
     grid: "Grid"
 _docs:
   title: "Documentation"
-  description: "Comprehensive information ranging from how to use Misskey to resources for server operators and developers."
+  description: "Comprehensive information ranging from how to use MinervaEdu to resources for server operators and developers."
   indexTitle: "Table of Contents"
   _contribute:
     editThis: "Edit this page"
     translateThis: "Translate this page"
-  _aboutMisskey:
-    title: "About Misskey"
-    description: "A complete guide for those new to Misskey or considering using it! Let's explore the basics and features."
+  _aboutMinervaEdu:
+    title: "About MinervaEdu"
+    description: "A complete guide for those new to MinervaEdu or considering using it! Let's explore the basics and features."
   _changelog:
     title: "Release Notes"
-    description: "View the version history of Misskey. Find out what's new in the latest version!"
+    description: "View the version history of MinervaEdu. Find out what's new in the latest version!"
   _donate:
     title: "Donating to the project"
-    description: "Misskey is free and open source software. If you like it, please consider donating so that we can continue to develop it."
+    description: "MinervaEdu is free and open source software. If you like it, please consider donating so that we can continue to develop it."
   _forUsers:
-    title: "For Misskey Users"
+    title: "For MinervaEdu Users"
   _forAdmin:
     title: "For Server Administrators"
   _forDevelopers:
@@ -165,7 +172,7 @@ _docs:
     toPageTop: "Back to Top"
 _blog:
   title: "Blog"
-  description: "Get the latest information and tips about Misskey straight from the Misskey Development Team! (Japanese only)"
+  description: "Get the latest information and tips about MinervaEdu straight from the MinervaEdu Development Team! (Japanese only)"
   back: "Back"
 _content:
   tip: "Tips"
@@ -174,10 +181,10 @@ _content:
   preview: "Preview"
 _other:
   title: "More!"
-  description: "Introducing more enjoyable resources for Misskey!"
+  description: "Introducing more enjoyable resources for MinervaEdu!"
 _brandAssets:
   title: "Brand Assets"
-  description: "A collection of Misskey's logo, icons, and other assets. Feel free to use for literally anything under the CC BY-NC-SA License!"
+  description: "A collection of MinervaEdu's logo, icons, and other assets. Feel free to use for literally anything under the CC BY-NC-SA License!"
   license: "Assets are available under the CC BY-NC-SA license 🎉"
   assetsDirectory: "All assets are managed on {0}."
   logo: "Logo"
@@ -186,7 +193,7 @@ _brandAssets:
   avatarDecorationTemplate: "Avatar Decoration Template"
 _contact:
   title: "Contact"
-  description: "Get in touch with the Misskey Project"
+  description: "Get in touch with the MinervaEdu Project"
   form: "To send us an inquiry, please fill out this form."
   formGoogleAccountRequired: "Currently, we ask you to have a Google Account to submit your inquiry in order to deal with serious spam.\nWe apologize for the inconvenience and thank you for your understanding."
   formLink: "Go to the form"
@@ -194,23 +201,23 @@ _links:
   title: "Links"
   _github:
     title: "GitHub"
-    description: "Misskey development takes place on GitHub. You can submit feature requests and bug reports here."
+    description: "MinervaEdu development takes place on GitHub. You can submit feature requests and bug reports here."
   _crowdin:
     title: "Crowdin"
-    description: "Translations for Misskey core and documentation are managed here. We appreciate your contributions."
+    description: "Translations for MinervaEdu core and documentation are managed here. We appreciate your contributions."
   _discord:
     title: "Discord Server"
-    description: "Engage in discussions and ask questions about Misskey here."
+    description: "Engage in discussions and ask questions about MinervaEdu here."
   _aiChan:
     title: "Ai-Chan"
-    description: "Visit the website of Ai-Chan, the mascot of Misskey."
+    description: "Visit the website of Ai-Chan, the mascot of MinervaEdu."
 _tools:
   title: "Tool Collection"
   index: "Tool Collection Home"
-  description: "Discover handy tools for Misskey, crafted by the original developers!"
+  description: "Discover handy tools for MinervaEdu, crafted by the original developers!"
   menuToggle: "Menu"
   _forUsers:
-    title: "For Misskey Users"
+    title: "For MinervaEdu Users"
   _forAdmin:
     title: "For Server Administrators"
 _mfmPlayground:
@@ -226,47 +233,47 @@ _mfmPlayground:
   clearEmojiCache: "Clear Emoji Cache"
 _aidConverter:
   title: "aid/aidx utilities"
-  description: "This tool can convert and generate aid and aidx, the random ID generation algorithms used inside Misskey."
+  description: "This tool can convert and generate aid and aidx, the random ID generation algorithms used inside MinervaEdu."
   aidToDate: "aid/aidx to Date"
   dateToAid: "Date to aid/aidx"
   mode: "Type of ID"
   date: "Date/Time"
 _aboutUs:
-  title: "About Misskey Development Division"
-  description: "Information about the Misskey development team."
+  title: "About MinervaEdu Development Division"
+  description: "Information about the MinervaEdu development team."
   _team:
     title: "Dev Members"
-    description: "Introducing the people involved in the development of Misskey!"
+    description: "Introducing the people involved in the development of MinervaEdu!"
     _core:
       title: "Core Team Member"
-      description: "These core team members are actively maintaining Misskey-related projects."
+      description: "These core team members are actively maintaining MinervaEdu-related projects."
     _coreEmeriti:
       title: "Core Team Member Emeriti"
       description: "These are former core team members who have made valuable contributions in the past."
     _contributors:
       title: "Contributors"
-      description: "These are some of the most active Misskey contributors."
+      description: "These are some of the most active MinervaEdu contributors."
       seeMore: "All contributors"
     _orgPartner:
       title: "Corporate & Organization Partners"
-      description: "These companies and organizations have contributed financially and technically to the development of Misskey."
+      description: "These companies and organizations have contributed financially and technically to the development of MinervaEdu."
     _hubTranslators:
-      title: "Misskey Hub Translators"
-      description: "Those are the people who are helping with translating Misskey Hub."
+      title: "MinervaEdu Translators"
+      description: "Those are the people who are helping with translating MinervaEdu."
     _coreTranslators:
-      title: "Misskey Translators"
-      description: "Those are the people who are helping with translating Misskey."
+      title: "MinervaEdu Translators"
+      description: "Those are the people who are helping with translating MinervaEdu."
 _i18n:
   _missing:
     title: "Help us translate"
     description: "This document is translated by the community. You can contribute on {link}. We appreciate your cooperation 🙏."
     linkLabel: "Crowdin"
 _share:
-  title: "Note to Misskey"
+  title: "Note to MinervaEdu"
   chooseServer: "Choose the server you want to note"
   addServer: "Add Server"
   domain: "Server domain"
-  compatibleWith: "Compatible with Misskey and certain Misskey forks."
+  compatibleWith: "Compatible with MinervaEdu and certain MinervaEdu forks."
   recommendedByWebsite: "Recommended Server Domain"
 _noteVisibility:
   public: "Public"
@@ -276,7 +283,7 @@ _noteVisibility:
   localOnly: "Defederate"
 _shareLinkGenerator:
   title: "Share Button Generator"
-  description: "Create share buttons for Misskey using the Misskey Hub's url share relay service."
+  description: "Create share buttons for MinervaEdu using the MinervaEdu's url share relay service."
   body: "Body"
   bodyWarning: "You can't use custom emojis in order to make them compatible with any server."
   url: "URL"
@@ -291,8 +298,8 @@ _shareLinkGenerator:
   testLink: "Test the sharing link"
   typeSomethingToGetLink: "Enter the body to generate sharing link."
   typeSomethingToGetButton: "Enter the body to generate share button code."
-_goToMisskey:
-  title: "Go to your Misskey Web"
+_goToMinervaEdu:
+  title: "Go to your MinervaEdu Web"
   heading: "Select the server you want to open the page and continue"
 _avatarDecorationPreview:
   title: "Avatar Decoration Previewer"
@@ -310,7 +317,7 @@ _avatarDecorationPreview:
   _placeholder:
     username: "Ai"
     noteText: "Just had a chocolate-glazed donut 🍩😋"
-    profileDescription: "I am AI, Misskey resident AI! Pleased to meet you... ♪"
+    profileDescription: "I am AI, MinervaEdu resident AI! Pleased to meet you... ♪"
 _customEmojiPreview:
   title: "Custom Emoji Preview"
   description: "The usability of custom emojis can be checked here."
@@ -324,7 +331,7 @@ _customEmojiPreview:
     noteText: "Custom emoji will appear like this → :emoji_preview_1:\nYou can rewrite the text and test its usability✨."
 _identiconGenerator:
   title: "Identicon Generator"
-  description: "You can generate an initial icon that will be specified by default when you register with Misskey."
+  description: "You can generate an initial icon that will be specified by default when you register with MinervaEdu."
   userName: "Username"
   includeDomain: "Specify the full user name, including the server's domain name."
 _api:

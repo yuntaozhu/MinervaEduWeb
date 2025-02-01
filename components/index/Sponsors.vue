@@ -12,7 +12,7 @@
                     { 'rounded-full': !sponsor.noRounded }
                 ]"
             >
-                <img    
+                <img
                     :src="sponsor.img"
                     class="w-full h-full object-contain"
                     :class="[
@@ -38,27 +38,27 @@ type Sponsor = {
 
 const sponsors: Sponsor[] = [
     {
-        img: '/img/sponsors/mask.svg',
-        to: 'https://mask.io/',
+        img: '/img/sponsors/mask.png',
+        to: 'https://arbitrum.io/',
     },
     {
         img: '/img/sponsors/rss3.png',
-        to: 'https://rss3.io/',
+        to: 'https://www.binance.com/en',
     },
     {
         img: '/img/sponsors/skeb.svg',
-        to: 'https://skeb.jp/',
+        to: 'https://ethereum.org/en/',
     },
     {
         img: '/img/sponsors/dcadvirth.png',
         noMargin: true,
         noRounded: true,
-        to: 'https://www.dotchain.ltd/advirth',
+        to: 'https://opensea.io/',
     },
     {
         img: '/img/sponsors/xserver.png',
         noMargin: true,
-        to: 'https://www.xserver.ne.jp/',
+        to: 'https://metamask.io/',
     }
 ];
 </script>

@@ -26,7 +26,7 @@ function getRouteRules(): NuxtConfig['routeRules'] | undefined {
 
 	// 言語ごとに割り当てる必要のないRouteRules
 	const staticRules: NuxtConfig['routeRules'] = {
-		'/ja/blog/**': { isr: true },
+		'/cn/blog/**': { isr: true },
 		'/ns/': { prerender: true },
 	};
 
@@ -61,7 +61,9 @@ function getRouteRules(): NuxtConfig['routeRules'] | undefined {
 	};
 }
 
-export default defineNuxtConfig({
+export default
+defineNuxtConfig({
+	ssr: false,
 	runtimeConfig: {
 		public: {
 			baseUrl,
@@ -122,7 +124,7 @@ export default defineNuxtConfig({
 		locales,
 		lazy: true,
 		langDir: 'locales_dist',
-		defaultLocale: 'ja',
+		defaultLocale: 'cn',
 		// ▼ Defaultルートは、nitroプラグインでオーバーライドする
 		// 　 リンクはuseGLocalePath（ラッパー）を使う
 		strategy: 'prefix_and_default',

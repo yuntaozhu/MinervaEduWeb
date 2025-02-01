@@ -18,7 +18,7 @@ function doPost(e) {
   if (params?.deployment?.environment !== 'Production' || params?.action !== 'created') {
     return;
   }
-  
+
   // Cloudflareのキャッシュパージをやる
   if (CF_API_TOKEN && CF_ZONE_ID) {
     purgeCfCache();
@@ -44,7 +44,7 @@ function getChangeLog(d) {
 function postToMisskey(d) {
   var data = {
     i: MI_API_TOKEN,
-    text: `$[tada 📢] **Misskey Hub が更新されました！**
+    text: `$[tada 📢] **Digiforge が更新されました！**
 早速チェックしましょう ▶ ${d?.repository?.homepage ?? 'https://misskey-hub.net/'}
 
 **【今回の更新点】**

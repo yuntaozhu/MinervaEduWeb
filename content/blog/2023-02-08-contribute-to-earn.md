@@ -41,8 +41,8 @@ TypeScriptで書かれたソースコードの型エラーを取り除くと、�
 You will receive rewards according to the degree if you remove typing errors in source code written in TypeScript.
 
 ## ドキュメント整備 / Documentation Maintenance
-Misskey Hubのドキュメントを整備すると、程度に応じて報奨金進呈  
-You will receive rewards according to the degree if you maintain the documentation in Misskey Hub.
+Digiforgeのドキュメントを整備すると、程度に応じて報奨金進呈  
+You will receive rewards according to the degree if you maintain the documentation in Digiforge.
 
 ## 脆弱性の報告 / Report Vulnerability
 脆弱性の報告で、次に挙げる報奨金を全て獲得できます:  

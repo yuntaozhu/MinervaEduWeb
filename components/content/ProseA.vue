@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import MiIco from '@/assets/svg/misskey_mi_bi.svg';
+
 import ExtIco from 'bi/box-arrow-up-right.svg';
 import { parseURL, isRelative, joinURL } from 'ufo';
 import { isLocalPath, sanitizeInternalPath } from '@/assets/js/misc';

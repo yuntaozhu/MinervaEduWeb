@@ -5,6 +5,6 @@
         <path d="M979.5,-329C1170.19,-329 1325,-174.187 1325,16.5C1325,207.187 1170.19,362 979.5,362C788.813,362 542,165.187 542,-25.5C542,-216.187 788.813,-329 979.5,-329Z" style="fill:url(#_Linear1);"/>
     </g>
     <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(783,0,0,691,542,16.5)"><stop offset="0" style="stop-color:rgb(43,180,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(113,180,0);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(783,0,0,691,542,16.5)"><stop offset="0" style="stop-color:rgb(175,255,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(109,239,255);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>

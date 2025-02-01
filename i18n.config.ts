@@ -1,6 +1,6 @@
 export default defineI18nConfig(() => ({
 	legacy: false,
-	fallbackLocale: ['en', 'ja'],
+	fallbackLocale: ['cn', 'en'],
 	datetimeFormats: {
 		'en-US': {
 			short: {
@@ -11,7 +11,7 @@ export default defineI18nConfig(() => ({
 				weekday: 'short', hour: 'numeric', minute: 'numeric'
 			}
 		},
-		'ja-JP': {
+		'zh-CN': {
 			short: {
 				year: 'numeric', month: 'short', day: 'numeric'
 			},

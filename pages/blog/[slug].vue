@@ -35,7 +35,7 @@ import { joinURL, parseURL, withQuery } from 'ufo';
 import { isLocalPath } from '@/assets/js/misc';
 import type { MiBlogParsedContent } from '~/types/content';
 
-import MiIco from '@/assets/svg/misskey_mi_bi.svg';
+
 import TaittsuuIco from '@/assets/svg/taittsuu_bi.svg';
 import MastoIco from 'bi/mastodon.svg';
 import TwitterXIco from 'bi/twitter-x.svg';
@@ -83,21 +83,21 @@ route.meta.description = data.value?.description;
 const pd = data.value.date ? new Date(data.value.date).toISOString() : undefined;
 
 const miShareUrl = computed(() => withQuery('https://misskey-hub.net/share', {
-    text: route.meta.title + ' - Misskey Hub',
+    text: route.meta.title + ' - Digiforge',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const taittsuuShareUrl = computed(() => withQuery('https://taittsuu.com/share', {
-    text: route.meta.title + ` - Misskey Hub\n${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
+    text: route.meta.title + ` - Digiforge\n${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const mtdShareUrl = computed(() => withQuery('https://donshare.net/share.html', {
-    text: route.meta.title + ' - Misskey Hub',
+    text: route.meta.title + ' - Digiforge',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const twShareUrl = computed(() => withQuery('https://twitter.com/share', {
-    text: route.meta.title + ' - Misskey Hub',
+    text: route.meta.title + ' - Digiforge',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 

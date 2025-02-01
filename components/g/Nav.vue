@@ -88,7 +88,7 @@
 </template>
 
 <script setup lang="ts">
-import MiIcon from '@/assets/svg/misskey_mi_bi.svg';
+
 import I18nIcon from 'bi/translate.svg';
 import SunIcon from 'bi/sun.svg';
 import MoonIcon from 'bi/moon-stars.svg';

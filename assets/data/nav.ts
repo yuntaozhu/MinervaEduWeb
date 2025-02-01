@@ -27,7 +27,7 @@ export type NavItem = {
 export default <{
     /** ナビゲーションの真ん中のリンク */
     center: NavItem[];
-    /** 
+    /**
      * ナビゲーションの右端のリンク
      * （SNSとかGithubのリンクとか）
      */
@@ -36,25 +36,20 @@ export default <{
     center: [
         {
             i18n: '_nav.servers',
-            to: '/servers/',
+            //to: '/servers/',
         },
         {
             i18n: '_nav.docs',
-            to: '/docs/',
+            //to: '/docs/',
         },
         {
             i18n: '_nav.blog',
-            to: '/blog/',
+            //to: '/blog/',
         },
         {
             i18n: '_nav.other',
-            to: '/learn-more/',
+            //to: '/learn-more/',
         }
     ],
-    right: [
-        {
-            icon: GHIcon,
-            to: 'https://github.com/misskey-dev/misskey-hub-next',
-        },
-    ]
+
 };

@@ -10,7 +10,7 @@
                         <component :is="branding?.icon ?? ShareIco" class="w-6 h-6" />
                     </div>
                     <h1 class="font-bold text-center text-lg sm:text-xl">{{ branding?.heading ?? $t('_share.chooseServer') }}</h1>
-                    
+
                     <div v-if="manualInstanceData">
                         <div class="text-xs sm:text-sm mb-1 opacity-70">
                             {{ $t('_share.recommendedByWebsite') }}
@@ -97,7 +97,7 @@
                     </ul>
                     <div class="text-sm text-center">
                         &copy; 2024 syuilo and Misskey Project<br>
-                        <GNuxtLink to="https://misskey-hub.net/" target="_blank" class="hover:underline underline-offset-1">Misskey Hub</GNuxtLink>
+                        <GNuxtLink to="https://misskey-hub.net/" target="_blank" class="hover:underline underline-offset-1">Digiforge</GNuxtLink>
                     </div>
                 </div>
             </div>

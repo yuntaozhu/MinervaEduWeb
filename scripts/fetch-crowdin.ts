@@ -84,5 +84,5 @@ export async function fetchCrowdinMembers() {
     tsOut.push(`export const hubI18nMembers: PartialRecord<LocaleCodes, MiHubMember[]> = ${JSON.stringify(out)};`);
     writeFileSync(sourceFilePath, tsOut.join('\n'));
 
-    console.log('Crowdin (Misskey Hub) 貢献者の取得完了');
+    console.log('Crowdin (Digiforge) 貢献者の取得完了');
 }

@@ -25,7 +25,7 @@ nuxtApp.hook('page:loading:end', () => {
         setTimeout(() => {
             NProgress.done();
         }, 100);
-    });    
+    });
 });
 
 const getDescription = (): string => {
@@ -81,16 +81,16 @@ const i18nLinks = computed(() => head.value.link?.map((e: any) => {
     if (e.rel === 'alternate') {
         let href = e.href;
         const url = parseURL(href);
-        if (typeof e.hreflang === 'string' && (e.hreflang.includes('ja') || e.hreflang === 'x-default') && e.hreflang !== 'ja-KS') {
-            url.pathname = joinURL('/ja/', url.pathname);
+        if (typeof e.hreflang === 'string' && (e.hreflang.includes('cn') || e.hreflang === 'x-default') && e.hreflang !== 'ja-KS') {
+            url.pathname = joinURL('/cn/', url.pathname);
         }
         url.search = '';
         href = cleanDoubleSlashes(withTrailingSlash(stringifyParsedURL(url)));
         return { ...e, rel: e.rel, href, hreflang: e.hreflang };
-    } else if (e.rel === 'canonical' && locale.value === 'ja') {
+    } else if (e.rel === 'canonical' && locale.value === 'cn') {
         let href = e.href;
         const url = parseURL(href);
-        url.pathname = joinURL('/ja/', url.pathname);
+        url.pathname = joinURL('/cn/', url.pathname);
         url.search = '';
         href = cleanDoubleSlashes(withTrailingSlash(stringifyParsedURL(url)));
         return { ...e, rel: e.rel, href, hreflang: e.hreflang };
@@ -99,7 +99,7 @@ const i18nLinks = computed(() => head.value.link?.map((e: any) => {
     return e;
 }));
 
-/** 
+/**
  * 中国大陸で Google Fonts を使う裏技
  * fonts.googleapis.com → fonts.googleapis.cn
  **/

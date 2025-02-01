@@ -1,10 +1,10 @@
 <template>
 	<div class="relative space-y-3 lg:space-y-6">
         <MkLogo class="block mx-auto lg:ml-0 w-full max-w-[120px] lg:max-w-[250px]" />
-		<h2 class="text-center font-title lg:text-start font-bold tracking-wide text-3xl sm:text-5xl lg:text-6xl leading-relaxed sm:leading-relaxed lg:leading-relaxed tagline" :class="showTagline && 'shown'">
-			<div class="row">Interplanetary</div>
-			<div class="row">microblogging</div>
-			<div class="row">platform.🚀</div>
+		<h2 class="text-center font-title lg:text-start font-bold tracking-wide text-2xl sm:text-5xl lg:text-4xl leading-relaxed sm:leading-relaxed lg:leading-relaxed tagline" :class="showTagline && 'shown'">
+			<div class="row">Minerva is an </div>
+			<div class="row">Aimed at cultivating</div>
+			<div class="row">AI Plus interdisciplinary talents..🚀</div>
 		</h2>
 		<div class="max-w-lg mx-auto lg:mx-0 text-lg text-center lg:text-start">{{ $t('_landing._hero.description') }}</div>
 		<div v-if="notice" class="notice w-fit mx-auto lg:mx-0 rounded-full p-0.5">
@@ -30,7 +30,7 @@
 </template>
 
 <script setup lang="ts">
-import MkLogo from '@/assets/svg/misskey-logotype.svg';
+//import MkLogo from '@/assets/svg/misskey-logotype.jpg';
 import MegaphoneIco from 'bi/megaphone.svg';
 import ArrowRightIco from 'bi/arrow-right.svg';
 import ArrowUpRightIco from 'bi/arrow-up-right.svg';
