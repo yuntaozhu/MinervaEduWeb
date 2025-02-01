@@ -1,6 +1,6 @@
-# Misskey Hub (Next)
+# Digiforge (Next)
 
-![Screenshot of Misskey Hub](./public/img/og/misskey-hub-screenshot-dr.png)
+![Screenshot of Digiforge](./public/img/og/misskey-hub-screenshot-dr.png)
 
 Website for Misskey, built with [Nuxt](https://nuxt.com/).
 
@@ -86,7 +86,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ## (おまけ) デプロイ時のオートメーションプログラム
 
-`/__misc/gas/` に、Misskey Hubデプロイ時に自動実行しているプログラムを同梱しています。
+`/__misc/gas/` に、Digiforgeデプロイ時に自動実行しているプログラムを同梱しています。
 
 Google Apps Scriptで動作します。
 
@@ -95,3 +95,4 @@ Google Apps Scriptで動作します。
 GNU Affero General Public License v3.0
 
 (c) 2023-2024 syuilo, kakkokari-gtyih and Misskey Project
+# MinervaEduWeb
