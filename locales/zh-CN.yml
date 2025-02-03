@@ -27,31 +27,31 @@ _seo:
   defaultDescription: "Digiforge平台将对接行业所有主流的NFT交易平台，一键帮助发行者轻松实现NFT上架，让作品的价值尽快得到社区的发现和认同。"
 _nav:
   servers: "AI创作工具"
-  docs: "NFT上链"
-  blog: "NFT上交易市场"
-  other: "NTF作品社区"
+  docs: "Minerva AI课程"
+  blog: "Minerva 社区"
+  other: "Minerva 教育产品"
   switchLang: "语言设定"
 _landing:
   _hero:
-    description: "Digiforge 是个开放的去中心化NFT创作社区。"
+    description: "Minerva 针对K12的AI教育学习平台。"
     gettingStarted: "开始"
   _keyFeatures:
     _open:
       title: "开放"
-      description: "Digiforge是一款开放的NFT创作平台，任何人都可以自由地使用Digiforge。"
+      description: "Minerva，。"
     _federated:
-      title: "AI赋能创作"
-      description: "Digiforge平台将提供2D、动图、3D和视频的AI创作工具平台，让您的创作尽快得到曝光"
+      title: "AI教育机器人"
+      description: "K12 AI教育编程课程 （软硬件）目前已进入国内外多所院校的教育体系，覆盖近20万学子"
     _multifunction:
-      title: "NFT作品一键上链"
-      description: "Digiforge平台将集成各主流的公链，创作者可以一键实现作品上到目标公链形成NFT供社区mint"
+      title: "AI课程与赛事"
+      description: "AIGC创造力课程（AI文创、AI影视、AI音乐），已与新加坡某院校签署教学协议，为其定制AI艺术课程"
     _customizable:
-      title: "NFT作品一键上市"
-      description: "Digiforge平台将对接行业所有主流的NFT交易平台，一键帮助发行者轻松实现NFT上架，让作品的价值尽快得到社区的发现和认同。"
+      title: "LLM Agent & Application"
+      description: "精确匹配K12各年级和各学科的知识库,面向学生和教师两类人群的Agent矩阵,通过零代码编程实现可交互课件的制作。"
   _decenterized:
-    title: "Digiforge 是{0}"
+    title: "Minerva 是{0}"
     decenterizedPlatform: "去中心化平台"
-    description: "Digiforge致力于用AI技术和web3机制打造全球最大的NFT创作运营社区。它为创作者提供强大的AI创作工具和创意价值发现平台；为NFT运营者提供激活社区共创和构建强势品牌的手段；并为NFT爱好者提供发现NFT艺术，与创作者和运营者共同创作的机会，使NFT可用、可玩且有价值。"
+    description: "Minerva。它为创作者提供强大的AI创作工具和创意价值发现平台；为NFT运营者提供激活社区共创和构建强势品牌的手段；并为NFT爱好者提供发现NFT艺术，与创作者和运营者共同创作的机会，使NFT可用、可玩且有价值。"
     activityPub: "ActivityPub"
   _features:
     _root:
