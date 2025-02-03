@@ -33,61 +33,64 @@ _nav:
   switchLang: "Language Settings"
 _landing:
   _hero:
-    description: "MinervaEdu is an AI Education platform ， Base On AI , make Child more Smart . !"
+    description: "MinervaEdu is an AI-powered education platform designed to make children smarter! "
     gettingStarted: "Get Started"
   _keyFeatures:
     _open:
       title: "Open"
-      description: "MinervaEdu is an AI Education platform , open platform make child open to the furture. !."
+      description: "MinervaEdu is an AI-powered education platform designed to foster open learning and innovation, paving the way for a brighter future.."
     _federated:
       title: "AI Education Robot"
-      description: "The courses cover primary school, middle school and high school courses, and can help children participate in programming robots and NADC competitions.. !."
+      description: "Our courses span primary, middle, and high school levels, helping children explore programming, robotics, and participate in NADC competitions... !."
     _multifunction:
       title: "AI Courses and Competitions"
-      description: "By setting up AI laboratories for K12 schools to simulate the future ecological environment of Mars, a hands-on co-creation teaching model combining software and hardware is adopted"
+      description: "We establish AI labs in K-12 schools to simulate futuristic environments, such as the ecology of Mars. This hands-on approach integrates software and hardware to create an interactive learning experience."
     _customizable:
       title: "LLM Agent & Application"
-      description: "Interdisciplinary AI, Mathematics, Physics, and Chemistry Education Agent.Insight into the world through architectural thinking and explore problems through modeling"
+      description: "Bringing together interdisciplinary fields like AI, Mathematics, Physics, and Chemistry, our education agent promotes architectural thinking and problem-solving through advanced modeling techniques."
   _decenterized:
     title: "MinervaEdu is a {0} Platform."
     decenterizedPlatform: "AI Education"
-    description: "MinervaEdu is a pioneering AI education platform designed to empower children with the knowledge and skills they need to navigate and shape the future. Recognizing the growing importance of artificial intelligence in every aspect of modern life, MinervaEdu provides engaging and accessible learning experiences that foster AI awareness and cultivate essential AI competencies. Through interactive lessons, hands-on activities, and age-appropriate content, children explore fundamental AI concepts, develop computational thinking skills, and learn how AI is applied in real-world scenarios. MinervaEdu aims to inspire the next generation of innovators, equipping them with the tools to understand, utilize, and ethically contribute to the evolving world of artificial intelligence."
+    description: "MinervaEdu is a groundbreaking AI education platform dedicated to equipping children with the knowledge and skills needed to thrive in and shape the future. With artificial intelligence becoming integral to every facet of modern life, MinervaEdu offers engaging, accessible learning experiences that promote AI awareness and build essential competencies. Through interactive lessons, hands-on activities, and age-appropriate content, children delve into core AI concepts, develop computational thinking, and discover practical applications of AI in real-world contexts. MinervaEdu strives to inspire the next generation of innovators, empowering them with the tools to understand, apply, and ethically shape the future of artificial intelligence.."
     activityPub: "ActivityPub"
   _features:
     _root:
       title: "Key Features"
-      description: "MinervaEdu offers a wide variety of unique features! Here are some highlights."
+      description: "MinervaEdu offers a wide variety of unique features! Here are some of the highlights."
     _note:
       title: "AI-Enabled Creation"
-      description: "Children's AI programming + robots, cultivate students with great interest in cutting-edge technology, AI professional courses
-AI drawing, AI video, AI music, cultivate students with compound abilities in both thinking and practical operation
-Interdisciplinary AI courses, AI practical courses"
+      description: "MinervaEdu offers AI programming and robotics courses designed to ignite children's passion for cutting-edge technology. Through specialized AI courses in drawing, video creation, and music composition, students develop a unique blend of creative and practical skills. Interdisciplinary AI courses and hands-on practical sessions further enhance their critical thinking and technical expertise, fostering well-rounded abilities for the future."
     _federation:
       title: "AI Creativity Curriculum"
-      description: "Children's AI programming + robots, cultivate students with great interest in cutting-edge technology, AI professional courses
-AI drawing, AI video, AI music, cultivate students with compound abilities in both thinking and practical operation
-Interdisciplinary AI courses, AI practical courses"
+      description: "Our AI programming and robotics courses are designed to spark children's interest in cutting-edge technology. Specialized AI courses in drawing, video creation, and music empower students to develop both creative thinking and practical skills. Interdisciplinary AI courses and hands-on practical sessions further cultivate well-rounded abilities, preparing students to excel in the evolving world of technology."
     _reaction:
       title: "Programmable Educational Robot"
-      description: "Systematic programming and robotics courses, full-stage learning planning, covering 3-18 years old; multiple categories meet teaching needs, providing children with a rich range of science and technology quality courses; in-depth participation in the Ministry of Education's white list events; a diverse examination and certification system to periodically test children's learning outcomes;."
+      description: "Comprehensive programming and robotics courses with a structured learning plan cater to children aged 3 to 18. These courses cover multiple categories to meet diverse teaching needs, offering a rich array of science and technology programs. MinervaEdu actively participates in Ministry of Education-approved white-list events and provides a robust examination and certification system to periodically evaluate and track children's learning progress and achievements.."
     _drive:
       title: "IntelliCat"
-      description: "SmartBanMao is an educational companion robot for children and teenagers. It aims to provide an entertaining learning experience through artificial intelligence technology, while promoting children's programming thinking and creativity, and assisting children in learning a wide range of subjects such as mathematics, physics and chemistry.!"
+      description: "IntelliCat is an educational companion robot designed for children and teenagers. It leverages advanced artificial intelligence technology to create an engaging and enjoyable learning experience. IntelliCat fosters programming skills and creativity while supporting learning in various subjects, including mathematics, physics, and chemistry.!"
     _theme:
       title: "Interdisciplinary AI"
-      description: "Intelligent problem solving: When students face math, physics and chemistry problems, they can rely on the instant feedback and detailed analysis provided by the Agent to improve their problem-solving efficiency and enhance their confidence.
-Cultivation of model-based thinking: The tool guides students to understand and solve practical problems by building mathematical models, so that they can form an organic connection between theory and practice and cultivate logical thinking and creativity.
-Visual learning experience: Through vivid visual demonstrations and simulations, students can intuitively understand core concepts such as force, mass and acceleration, which improves the fun and effectiveness of learning.."
+      description: "•	Intelligent Problem Solving: Students can tackle math, physics, and chemistry challenges with the help of instant feedback and detailed analysis provided by the AI Agent. This boosts their problem-solving efficiency and builds their confidence.
+•	Cultivation of Model-Based Thinking: The tool guides students in building mathematical models to understand and solve real-world problems, bridging the gap between theory and practice while fostering logical thinking and creativity.
+•	Visual Learning Experience: With vivid visual demonstrations and simulations, students can grasp core concepts like force, mass, and acceleration intuitively, making learning more engaging and effective.
+"
     _thread:
       title: "AI Applications and Solutions"
-      description: "Lesson plan generation, syllabus design, lesson preparation assistant, course closing assistant, homework correction, teacher teaching efficiency increased by 150%, student learning efficiency increased by 200%.."
+      description: "•	Lesson plan generation
+•	Syllabus design
+•	Lesson preparation assistance
+•	Course wrap-up assistance
+•	Homework grading
+•	Teacher's teaching efficiency increased by 150%
+•	Student learning efficiency improved by 200%
+.."
     _charts:
       title: "Charts"
-      description: "For those who need to see everything, MinervaEdu has powerful charts for both users and admins to see what exactly is going on in your instance in real time."
+      description: "For those who prefer a comprehensive view, MinervaEdu offers powerful charts for both users and admins to monitor real-time activity and gain clear insights into what's happening within your instance.."
     _widgets:
       title: "Mars Ecological Base"
-      description: "By setting up AI laboratories for K12 schools, simulating the future ecological environment of Mars, and using a hands-on co-creation teaching model that combines software and hardware,
-including general education courses, inquiry courses, graphical programming tools, and a large number of supporting content"
+      description: "By establishing AI laboratories in K-12 schools, we simulate the future ecological environment of Mars. This is achieved through a hands-on, co-creation teaching model that integrates both software and hardware. The program includes general education courses, inquiry-based learning, graphical programming tools, and a wealth of supporting content."
   _getStarted:
     title: "Getting Started with MinervaEdu"
     _find:

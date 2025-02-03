@@ -38,7 +38,7 @@ _landing:
   _keyFeatures:
     _open:
       title: "开放"
-      description: "Minerva，。"
+      description: "Minerva，是一个开发的AI教育学习平台，用AI赋能启发孩子的智慧。"
     _federated:
       title: "AI教育机器人"
       description: "K12 AI教育编程课程 （软硬件）目前已进入国内外多所院校的教育体系，覆盖近20万学子"
@@ -46,20 +46,20 @@ _landing:
       title: "AI课程与赛事"
       description: "AIGC创造力课程（AI文创、AI影视、AI音乐），已与新加坡某院校签署教学协议，为其定制AI艺术课程"
     _customizable:
-      title: "LLM Agent & Application"
+      title: "LLM Agent "
       description: "精确匹配K12各年级和各学科的知识库,面向学生和教师两类人群的Agent矩阵,通过零代码编程实现可交互课件的制作。"
   _decenterized:
     title: "Minerva 是{0}"
-    decenterizedPlatform: "去中心化平台"
+    decenterizedPlatform: "AI教育平台"
     description: "Minerva。它为创作者提供强大的AI创作工具和创意价值发现平台；为NFT运营者提供激活社区共创和构建强势品牌的手段；并为NFT爱好者提供发现NFT艺术，与创作者和运营者共同创作的机会，使NFT可用、可玩且有价值。"
     activityPub: "ActivityPub"
   _features:
     _root:
       title: "主要功能"
-      description: "Digiforge 有丰富的功能，从各家都有的功能到 Digiforge 独有的功能。这里来介绍一些。"
+      description: "Minerva 提供了丰富的教学服务， Minerva 独有的AI教育学习管理的功能。这里来介绍一些。"
     _note:
       title: "创作工具"
-      description: "Digiforge平台将提供2D、动图、3D和视频的AI创作工具平台，覆盖动漫、科幻、写实等各种风格的创作，形成NFT初次发行创作到社区二次创作的一站式AI创作服务平台。"
+      description: "覆盖了从小学、中学到大学的课程，完善的课程体系和课程内容，丰富的教学内容。"
     _federation:
       title: "上链"
       description: "Digiforge平台将集成各主流的公链，创作者可以一键实现作品上到目标公链形成NFT供社区mint。无论是机构项目方上万张作品，还是独立创作者的单张作品，均可轻松实现上链。
