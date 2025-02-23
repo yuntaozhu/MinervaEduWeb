@@ -29,7 +29,7 @@ _nav:
   servers: "AI Creator Tool "
   docs: "Minerva AI Course"
   blog: "Minerva Community"
-  other: "Minerva product "
+  other: "Minerva Consultant "
   switchLang: "Language Settings"
 _landing:
   _hero:
@@ -104,7 +104,7 @@ _landing:
       docs: "See Documentation"
   _donation:
     title: "Mission"
-    description: "At Minerva Education TechnologyCompany, our mission is to harnessthe power of artificial intelligence torevolutionize education from K-12through university levels. We arededicated to developing innovativeAl-driven solutions that empowereducators to enhance their teachingmethodologies and enable studentsto achieve personalized, effective.and engaging learning experiences.By integrating advanced Altechnologies, we aim to bridgeeducational gaps, foster criticalthinking, and prepare learners for thechallenges of the future."
+    description: "At Minerva Education Technology Company, our mission is to harnessthe power of artificial intelligence to revolutionize education from K-12 through university levels.We are dedicated to developing innovative Al-driven solutions that empower educators to enhance their teaching methodologies and enable student sto achieve personalized, effective. and engaging learning experiences.By integrating advanced AI technologies, we aim to bridge educational gaps, foster critical thinking, and prepare learners for the challenges of the future."
   _sponsors:
     title: "Sponsors"
 _servers:
