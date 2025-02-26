@@ -2,9 +2,9 @@
 	<div class="relative space-y-3 lg:space-y-6">
         <MkLogo class="block mx-auto lg:ml-0 w-full max-w-[120px] lg:max-w-[250px]" />
 		<h2 class="text-center font-title lg:text-start font-bold tracking-wide text-2xl sm:text-5xl lg:text-4xl leading-relaxed sm:leading-relaxed lg:leading-relaxed tagline" :class="showTagline && 'shown'">
-			<div class="row">Minerva is an </div>
-			<div class="row">Aimed at cultivating</div>
-			<div class="row">AI Plus interdisciplinary talents..🚀</div>
+			<div class="row">Minerva is dedicated to </div>
+			<div class="row">cultivating AI-driven</div>
+			<div class="row">interdisciplinary talent...🚀</div>
 		</h2>
 		<div class="max-w-lg mx-auto lg:mx-0 text-lg text-center lg:text-start">{{ $t('_landing._hero.description') }}</div>
 		<div v-if="notice" class="notice w-fit mx-auto lg:mx-0 rounded-full p-0.5">
