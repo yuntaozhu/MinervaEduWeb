@@ -1,6 +1,6 @@
-# Digiforge (Next)
+# 东高地科技馆 (Next)
 
-![Screenshot of Digiforge](./public/img/og/misskey-hub-screenshot-dr.png)
+![Screenshot of 东高地科技馆](./public/img/og/misskey-hub-screenshot-dr.png)
 
 Website for Misskey, built with [Nuxt](https://nuxt.com/).
 

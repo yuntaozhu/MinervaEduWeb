@@ -438,7 +438,7 @@ exit
 sudo nano /etc/nginx/conf.d/misskey.conf
 ```
 
-[Digiforge](/docs/for-admin/install/resources/nginx/)の設定例をnanoへコピー＆ペーストし、次の部分を自分のものに書き換える。
+[东高地科技馆](/docs/for-admin/install/resources/nginx/)の設定例をnanoへコピー＆ペーストし、次の部分を自分のものに書き換える。
 
 - 18行目と30行目のドメイン名
 - 34-35行目の証明書へのパスをCertbotで取得したものに (基本的にexample.tldを置き換えるだけでOK)

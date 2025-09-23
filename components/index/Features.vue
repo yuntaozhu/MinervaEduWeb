@@ -13,17 +13,17 @@
 				<div class="description">{{ $t('_landing._features._note.description') }}</div>
 			</div></div>
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-reaction.png" class="img" alt="some emojis in the reaction picker">
+				<img src="/img/top-features/top-features-federation.png" class="img" alt="some emojis in the reaction picker">
 				<h3 class="title">{{ $t('_landing._features._reaction.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._reaction.description') }}</div>
 			</div></div>
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-theme.png" class="img" alt="color palette">
+				<img src="/img/top-features/top-features-charts.png" class="img" alt="color palette">
 				<h3 class="title">{{ $t('_landing._features._theme.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._theme.description') }}</div>
 			</div></div>
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-charts.png" class="img" alt="Charts">
+				<img src="/img/top-features/top-features-thread.png" class="img" alt="Charts">
 				<h3 class="title">{{ $t('_landing._features._charts.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._charts.description') }}</div>
 			</div></div>
@@ -35,12 +35,12 @@
 				<div class="description">{{ $t('_landing._features._federation.description') }}</div>
 			</div></div>
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-drive.png" class="img" alt="a list of files in Misskey Drive">
+				<img src="/img/top-features/top-features-reaction.png" class="img" alt="a list of files in Misskey Drive">
 				<h3 class="title">{{ $t('_landing._features._drive.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._drive.description') }}</div>
 			</div></div>
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-thread.png" class="img" alt="multiple messages arranged in a thread">
+				<img src="/img/top-features/top-features-theme.png" class="img" alt="multiple messages arranged in a thread">
 				<h3 class="title">{{ $t('_landing._features._thread.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._thread.description') }}</div>
 			</div></div>

@@ -4,7 +4,6 @@
 		<GDots class="dots dots2" :space="30"/>
 		<img :src="screenshots.desktop" class="screenshot desktop" alt=" ">
 		<img :src="screenshots.mobile" class="screenshot mobile" alt=" ">
-		<img src="/img/hero/ai.png" class="ai" alt="Ai-chan, Misskey's mascott">
     </div>
 </template>
 

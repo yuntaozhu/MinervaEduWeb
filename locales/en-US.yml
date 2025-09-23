@@ -88,10 +88,7 @@ _landing:
     _charts:
       title: "Charts"
       description: "For those who prefer a comprehensive view, MinervaEdu offers powerful charts for both users and admins to monitor real-time activity and gain clear insights into what's happening within your instance.."
-    _widgets:
-      title: "Mars Ecological Base"
-      description: "By establishing AI laboratories in K-12 schools, we simulate the future ecological environment of Mars. This is achieved through a hands-on, co-creation teaching model that integrates both software and hardware. The program includes general education courses, inquiry-based learning, graphical programming tools, and a wealth of supporting content."
-  _getStarted:
+
     title: "Getting Started with MinervaEdu"
     _find:
       title: "AI Creators，Student"

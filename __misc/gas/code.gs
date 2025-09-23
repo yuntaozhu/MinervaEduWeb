@@ -44,7 +44,7 @@ function getChangeLog(d) {
 function postToMisskey(d) {
   var data = {
     i: MI_API_TOKEN,
-    text: `$[tada 📢] **Digiforge が更新されました！**
+    text: `$[tada 📢] **东高地科技馆 が更新されました！**
 早速チェックしましょう ▶ ${d?.repository?.homepage ?? 'https://misskey-hub.net/'}
 
 **【今回の更新点】**
