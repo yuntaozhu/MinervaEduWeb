@@ -1,6 +1,6 @@
-# 东高地科技馆 (Next)
+# 北京丰台区东高地青少年科技馆 (Next)
 
-![Screenshot of 东高地科技馆](./public/img/og/misskey-hub-screenshot-dr.png)
+![Screenshot of 北京丰台区东高地青少年科技馆](./public/img/og/misskey-hub-screenshot-dr.png)
 
 Website for Misskey, built with [Nuxt](https://nuxt.com/).
 

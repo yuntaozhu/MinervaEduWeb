@@ -83,21 +83,21 @@ route.meta.description = data.value?.description;
 const pd = data.value.date ? new Date(data.value.date).toISOString() : undefined;
 
 const miShareUrl = computed(() => withQuery('https://misskey-hub.net/share', {
-    text: route.meta.title + ' - 东高地科技馆',
+    text: route.meta.title + ' - 北京丰台区东高地青少年科技馆',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const taittsuuShareUrl = computed(() => withQuery('https://taittsuu.com/share', {
-    text: route.meta.title + ` - 东高地科技馆\n${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
+    text: route.meta.title + ` - 北京丰台区东高地青少年科技馆\n${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const mtdShareUrl = computed(() => withQuery('https://donshare.net/share.html', {
-    text: route.meta.title + ' - 东高地科技馆',
+    text: route.meta.title + ' - 北京丰台区东高地青少年科技馆',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 
 const twShareUrl = computed(() => withQuery('https://twitter.com/share', {
-    text: route.meta.title + ' - 东高地科技馆',
+    text: route.meta.title + ' - 北京丰台区东高地青少年科技馆',
     url: `${runtimeConfig.public.baseUrl}/ja/blog/${route.params.slug}/`,
 }));
 

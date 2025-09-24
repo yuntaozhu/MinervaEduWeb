@@ -84,5 +84,5 @@ export async function fetchCrowdinMembers() {
     tsOut.push(`export const hubI18nMembers: PartialRecord<LocaleCodes, MiHubMember[]> = ${JSON.stringify(out)};`);
     writeFileSync(sourceFilePath, tsOut.join('\n'));
 
-    console.log('Crowdin (东高地科技馆) 貢献者の取得完了');
+    console.log('Crowdin (北京丰台区东高地青少年科技馆) 貢献者の取得完了');
 }
