@@ -2,7 +2,7 @@
 	<div class="relative space-y-3 lg:space-y-6">
         <MkLogo class="block mx-auto lg:ml-0 w-full max-w-[120px] lg:max-w-[250px]" />
 		<h2 class="text-center font-title lg:text-start font-bold tracking-wide text-2xl sm:text-5xl lg:text-4xl leading-relaxed sm:leading-relaxed lg:leading-relaxed tagline" :class="showTagline && 'shown'">
-			<div class="row">丰台区东高地科技馆 </div>
+			<div class="row">北京丰台区东高地青少年科技馆 </div>
 			<div class="row">AI创想家</div>
 			<div class="row">人工智能学习平台</div>
 		</h2>
