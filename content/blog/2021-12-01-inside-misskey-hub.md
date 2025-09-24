@@ -3,7 +3,7 @@ date: 2021-12-01
 description: 'Misskey Advent Calendar 2021 1日目の記事です。Digiforgeの実装について紹介します。'
 ---
 
-# インサイド 北京丰台区东高地青少年科技馆
+# インサイド     
 
 :::tip
 

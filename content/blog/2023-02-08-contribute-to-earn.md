@@ -42,7 +42,7 @@ You will receive rewards according to the degree if you remove typing errors in 
 
 ## ドキュメント整備 / Documentation Maintenance
 Digiforgeのドキュメントを整備すると、程度に応じて報奨金進呈  
-You will receive rewards according to the degree if you maintain the documentation in 北京丰台区东高地青少年科技馆.
+You will receive rewards according to the degree if you maintain the documentation in     .
 
 ## 脆弱性の報告 / Report Vulnerability
 脆弱性の報告で、次に挙げる報奨金を全て獲得できます:  

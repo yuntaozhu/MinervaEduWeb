@@ -97,7 +97,7 @@
                     </ul>
                     <div class="text-sm text-center">
                         &copy; 2024 syuilo and Misskey Project<br>
-                        <GNuxtLink to="https://misskey-hub.net/" target="_blank" class="hover:underline underline-offset-1">北京丰台区东高地青少年科技馆</GNuxtLink>
+                        <GNuxtLink to="https://misskey-hub.net/" target="_blank" class="hover:underline underline-offset-1">    </GNuxtLink>
                     </div>
                 </div>
             </div>

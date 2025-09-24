@@ -21,8 +21,8 @@ _error:
   reportProblem: "报告问题"
   goToTop: "返回主页"
 _seo:
-  siteName: "北京丰台区东高地青少年科技馆"
-  siteNameLong: "北京丰台区东高地青少年科技馆 – Digiforge官方网站"
+  siteName: "    "
+  siteNameLong: "     – Digiforge官方网站"
   defaultTitleTagline: "AI赋能创作"
   defaultDescription: "Digiforge平台将对接行业所有主流的NFT交易平台，一键帮助发行者轻松实现NFT上架，让作品的价值尽快得到社区的发现和认同。"
 _nav:
@@ -104,14 +104,14 @@ _landing:
     title: "合作伙伴"
 _servers:
   title: "服务器列表"
-  description: "北京丰台区东高地青少年科技馆 "
+  description: "     "
   addYourServer: ""
   addYourServerLink: "这里"
   _system:
     fetchError: "无法加载。请稍后重试。"
   _statistics:
     title: "服务器统计数据"
-    description: "下面是 北京丰台区东高地青少年科技馆 服务器的统计数据图表。"
+    description: "下面是      服务器的统计数据图表。"
     viewFullStats: "查看详细数据"
     lang: "主要语言"
     registerAcceptance: "注册模式"
@@ -142,17 +142,17 @@ _servers:
     grid: "网格"
 _docs:
   title: "文档"
-  description: "北京丰台区东高地青少年科技馆 是一个开源的去中心化社交网络。本文档涵盖从如何很好地使用 北京丰台区东高地青少年科技馆 到面向服务器管理员和程序员的各种信息。"
+  description: "     是一个开源的去中心化社交网络。本文档涵盖从如何很好地使用      到面向服务器管理员和程序员的各种信息。"
   indexTitle: "目录"
   _contribute:
     editThis: "编辑本页面"
     translateThis: "翻译本页面"
   _aboutDigiforge:
-    title: "关于 北京丰台区东高地青少年科技馆"
-    description: "对于刚接触 北京丰台区东高地青少年科技馆 的人和将来要使用它的人，让我们来了解一下它的基本机制和功能。"
+    title: "关于     "
+    description: "对于刚接触      的人和将来要使用它的人，让我们来了解一下它的基本机制和功能。"
   _changelog:
     title: "发布日志"
-    description: "查看 北京丰台区东高地青少年科技馆 的历史版本，了解最新版本有哪些变化！"
+    description: "查看      的历史版本，了解最新版本有哪些变化！"
   _donate:
     title: "プロジェクトへの寄付"
     description: "Digiforgeは無料で使えるオープンソースのソフトウェアです。気に入っていただけたら、今後も開発を続けられるようにぜひ寄付をご検討ください。"
@@ -191,7 +191,7 @@ _brandAssets:
   avatarDecorationTemplate: "アバターデコレーション テンプレート"
 _contact:
   title: "お問い合わせ"
-  description: "北京丰台区东高地青少年科技馆 Projectへのお問い合わせはこちらから"
+  description: "     Projectへのお問い合わせはこちらから"
   form: "こちらのフォームからご回答ください。"
   formGoogleAccountRequired: "現在、スパム対策のため、お問い合わせの送信にはGoogleアカウントが必要となっております。\nお手数をおかけしますが、ご理解のほどよろしくお願い致します。"
   formLink: "フォームへ進む"
@@ -237,8 +237,8 @@ _aidConverter:
   mode: "作成するid"
   date: "日付時刻"
 _aboutUs:
-  title: "北京丰台区东高地青少年科技馆 Projectについて"
-  description: "北京丰台区东高地青少年科技馆 Projectについての情報を掲載しています。"
+  title: "     Projectについて"
+  description: "     Projectについての情報を掲載しています。"
   _team:
     title: "開発メンバー"
     description: "Digiforgeの開発に関わっている方を紹介しています。"
@@ -256,10 +256,10 @@ _aboutUs:
       title: "企業・団体パートナー"
       description: "こちらの企業・団体から、金銭的・技術的な観点でDigiforgeの開発へご協力いただいております。"
     _hubTranslators:
-      title: "北京丰台区东高地青少年科技馆 ローカライザー"
+      title: "     ローカライザー"
       description: "Digiforgeの翻訳に協力いただいている皆さんです。"
     _coreTranslators:
-      title: "北京丰台区东高地青少年科技馆 ローカライザー"
+      title: "     ローカライザー"
       description: "Digiforgeの翻訳に協力いただいている皆さんです。"
 _i18n:
   _missing:
@@ -297,7 +297,7 @@ _shareLinkGenerator:
   typeSomethingToGetLink: "本文を入力するとリンクが生成されます。"
   typeSomethingToGetButton: "本文を入力するとボタンが生成されます。"
 _goToDigiforge:
-  title: "北京丰台区东高地青少年科技馆 Webに移動"
+  title: "     Webに移動"
   heading: "このページを開きたいサーバーを選択してください"
 _avatarDecorationPreview:
   title: "アバターデコレーション プレビュー"

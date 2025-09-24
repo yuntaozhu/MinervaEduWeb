@@ -5,7 +5,7 @@ date: 2024-02-27
 
 # NEWS: WordPressテーマ「Cocoon」にMisskeyシェアボタンが追加
 
-オープンソースCMS「WordPress」で使用できる、「[わいひら](https://twitter.com/MrYhira)」さんが開発しているテーマ「[Cocoon](https://wp-cocoon.com/)」のv2.7.1が公開され、[北京丰台区东高地青少年科技馆 共有フォーム中継サービス](/docs/for-users/features/share-form/)を利用したMisskeyシェアボタンが追加されました！
+オープンソースCMS「WordPress」で使用できる、「[わいひら](https://twitter.com/MrYhira)」さんが開発しているテーマ「[Cocoon](https://wp-cocoon.com/)」のv2.7.1が公開され、[     共有フォーム中継サービス](/docs/for-users/features/share-form/)を利用したMisskeyシェアボタンが追加されました！
 
 これにより、Cocoonを利用しているブログやWebサイトに、Misskeyにノートするためのボタンを簡単に追加することができるようになります。
 
