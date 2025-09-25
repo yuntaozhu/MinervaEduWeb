@@ -30,7 +30,7 @@
 		</div>
 		<div class="space-y-8 lg:pt-24">
 			<div v-fade-in class="item"><div class="content">
-				<img src="/img/top-features/top-features-federation.png" class="img" alt="logos of Misskey and other ActivityPub server software">
+				<img src="/img/top-features/AIImage.png" class="img" alt="logos of Misskey and other ActivityPub server software">
 				<h3 class="title">{{ $t('_landing._features._federation.title') }}</h3>
 				<div class="description">{{ $t('_landing._features._federation.description') }}</div>
 			</div></div>
